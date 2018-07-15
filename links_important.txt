@@ -1,0 +1,11 @@
+https://www.freelancer.co.uk/projects/web-scraping/naukri-database/#
+https://www.quora.com/Is-there-a-way-to-data-scrape-from-a-CV-database-like-CV-library-so-that-I-have-all-the-CVs
+https://www.quora.com/What-is-the-legality-of-web-scraping
+https://www.google.co.uk/search?q=CV+database+Scraping+github&oq=CV+database+Scraping+github&aqs=chrome..69i57.2655j0j4&sourceid=chrome&ie=UTF-8
+https://github.com/lorien/awesome-web-scraping/blob/master/python.md
+https://github.com/diasks2/ruby-nlp
+
+
+
+----
+https://github.com/Lazar-T?tab=repositories
